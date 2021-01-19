@@ -1,0 +1,7 @@
+E:\Rast\1_lession\bin\Debug\1_lession.exe.config
+E:\Rast\1_lession\bin\Debug\1_lession.exe
+E:\Rast\1_lession\bin\Debug\1_lession.pdb
+E:\Rast\1_lession\obj\Debug\1_lession.csprojAssemblyReference.cache
+E:\Rast\1_lession\obj\Debug\1_lession.csproj.CoreCompileInputs.cache
+E:\Rast\1_lession\obj\Debug\1_lession.exe
+E:\Rast\1_lession\obj\Debug\1_lession.pdb
